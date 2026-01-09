@@ -4,10 +4,10 @@ install:
 brain-games:
 	uv run brain-games
 
-build:
+build: install 
 	uv build
 
-package-install:
+package-install: build
 	uv tool install dist/*.whl
 
 .PHONY: braint-games
