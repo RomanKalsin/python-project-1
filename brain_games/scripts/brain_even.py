@@ -1,5 +1,6 @@
-import prompt
 import random
+
+import prompt
 
 
 def welcome_user():
@@ -20,7 +21,7 @@ def brain_even():
     print('Answer "yes" if the number is even, otherwise answer "no".')
     count = 0
     while count < 3:
-        num = random.randint(1,100)
+        num = random.randint(1, 100)
         print(f'Question: {num}')
         user_ansver = prompt.string('Your answer: ')
         if is_even(num) != user_ansver:
@@ -30,9 +31,9 @@ def brain_even():
 
 
 def finish_game(result, user_name):
-    if result == True:
+    if result:
         print(f"Congratulations, {user_name}!")
-    elif result == False:
+    elif not result:
         print(f"Let's try again, {user_name}!")
 
 
