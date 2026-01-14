@@ -7,4 +7,4 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=RomanKalsin_python-project-1&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=RomanKalsin_python-project-1)
 # python-project-1
 
-
+https://asciinema.org/a/cbUoImszy1CFVadC
