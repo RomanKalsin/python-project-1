@@ -1,5 +1,5 @@
 from brain_games.cli import welcome_user as welcome_user_test
-from brain_games.progress_game import welcome_user, check_answer, finish_game
+from brain_games.progress_game import check_answer, finish_game, welcome_user
 
 __all__ = (
     'welcome_user',
