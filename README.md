@@ -8,3 +8,5 @@
 # python-project-1
 
 https://asciinema.org/a/cbUoImszy1CFVadC
+
+https://asciinema.org/a/DeU3yhYz1i7hRxze
