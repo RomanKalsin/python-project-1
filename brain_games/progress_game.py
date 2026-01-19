@@ -16,6 +16,8 @@ def check_answer(game_rules, game_logic):
         print(f'Question: {question}')
         user_ansver = prompt.string('Your answer: ')
         if answer != user_ansver:
+            print(f"'{user_ansver}' is wrong answer ;(."
+                  f" Correct answer was '{answer}'.")
             return False
         count += 1
     return True
