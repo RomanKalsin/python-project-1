@@ -12,3 +12,5 @@ https://asciinema.org/a/cbUoImszy1CFVadC
 https://asciinema.org/a/DeU3yhYz1i7hRxze
 
 https://asciinema.org/a/6fqHPUtr4LRqT0Ki
+
+<a href="https://asciinema.org/a/oSv05R8S4Sq2ETl8" target="_blank"><img src="https://asciinema.org/a/oSv05R8S4Sq2ETl8.svg" /></a>
