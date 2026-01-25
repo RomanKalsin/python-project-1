@@ -1,3 +1,4 @@
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=RomanKalsin_python-project-1&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=RomanKalsin_python-project-1)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=RomanKalsin_python-project-1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=RomanKalsin_python-project-1)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=RomanKalsin_python-project-1&metric=bugs)](https://sonarcloud.io/summary/new_code?id=RomanKalsin_python-project-1)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=RomanKalsin_python-project-1&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=RomanKalsin_python-project-1)
